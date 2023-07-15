@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Michael Tran, an IT Technician and Cloud Enthusiast
 
-### Cloud Projects
+### :cloud: Cloud Projects 
 [**AWS Lambda Xray Project**](https://github.com/Michael-DTran/Lambda-Xray-Proj )
 
 [**AWS React Domain Project**](https://github.com/Michael-DTran/React-Domain-Proj)
