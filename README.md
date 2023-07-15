@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋. I'm Michael Tran, an IT Technician and Cloud Enthusiast
 
+### Cloud Projects
+**AWS Lambda-Xray Project**
+[Lambda Xray Project](https://github.com/Michael-DTran/Lambda-Xray-Proj )
+
+**AWS React Domain Project**
+[AWS React Domain Project](https://github.com/Michael-DTran/React-Domain-Proj)
 <!--
 **Michael-DTran/Michael-DTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
