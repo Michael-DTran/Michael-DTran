@@ -1,12 +1,12 @@
 ### Hi there 👋. I'm Michael Tran, an IT Technician and Cloud Enthusiast
 
+### :computer: IT Projects
+[**osTicket on Azure**](https://github.com/Michael-DTran/osTicket)
+
 ### :cloud: Cloud Projects 
 [**AWS Lambda Xray Project**](https://github.com/Michael-DTran/Lambda-Xray-Proj )
 
 [**AWS React Domain Project**](https://github.com/Michael-DTran/React-Domain-Proj)
-
-### :computer: IT Projects
-[**osTicket on Azure**](https://github.com/Michael-DTran/osTicket)
 <!--
 **Michael-DTran/Michael-DTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
