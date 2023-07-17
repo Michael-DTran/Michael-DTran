@@ -1,9 +1,9 @@
 ### Hi there 👋. I'm Michael Tran, an IT Technician and Cloud Enthusiast
 
 ### :computer: IT Projects
-[**osTicket on Azure**](https://github.com/Michael-DTran/osTicket)
+[**osTicket via Azure**](https://github.com/Michael-DTran/osTicket)
 
-[**Active Directory on Azure**](https://github.com/Michael-DTran/Active-Directory)
+[**Active Directory via Azure**](https://github.com/Michael-DTran/Active-Directory)
 
 ### :cloud: Cloud Projects 
 [**AWS Lambda X-ray Project**](https://github.com/Michael-DTran/Lambda-Xray-Proj )
